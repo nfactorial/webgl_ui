@@ -1,0 +1,15 @@
+{
+  "name": "webgl_2d",
+  "version": "0.0.1",
+  "description": "WebGL rendering library for 2D elements.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nfactorial",
+  "license": "ISC",
+  "dependencies": {
+    "@nfactorial/webgl_display": "0.0.37",
+    "@nfactorial/webgl_helper": "0.0.22"
+  }
+}
